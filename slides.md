@@ -17,7 +17,7 @@ transition: slide-up
 
 ---
 
-![planificacion project](media/foto_project.PNG)
+<img border="rounded" src="/media/foto_project.png">
 
 ---
 
