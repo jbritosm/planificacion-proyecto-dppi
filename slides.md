@@ -17,18 +17,10 @@ transition: slide-up
 
 ---
 
-- Hojas de identificación 2h
-- Introducción 2h
-- Objeto 2h
-- Antecedentes 2h
-- Descripcion de la situación actual 2h
-- Normas y referencias 2h
-- Definiciones y abreviaturas 2h
-- Requisitos iniciales 2h
-- Alcance 2h
+![planificacion project](media/foto_project.PNG)
 
 ---
 
 # Estimación 
 
-Duración total estimada: 18h
+Duración total estimada: 134h
