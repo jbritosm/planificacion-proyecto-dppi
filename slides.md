@@ -8,6 +8,8 @@ title: Presentación de planificación del Proyecto de Prácticas de la asignatu
 
 Joaquín Salustiano Britos Morales UO276044
 
+Jefe de equipo y tesorero
+
 
 ---
 transition: slide-up
